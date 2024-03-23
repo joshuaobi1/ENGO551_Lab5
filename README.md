@@ -23,4 +23,5 @@ Additional Notes
 
 
 Hosting
-##The application is hosted using GitHub Pages, enabling easy access from anywhere at [https://joshuaobi1/joshuaobi1.github.io](https://joshuaobi1.github.io/). This approach simplifies sharing and testing across different devices, especially for mobile-based geolocation tracking.
+
+The application is hosted using GitHub Pages, enabling easy access from anywhere at [https://joshuaobi1/joshuaobi1.github.io](https://joshuaobi1.github.io/). This approach simplifies sharing and testing across different devices, especially for mobile-based geolocation tracking.
